@@ -1,1 +1,23 @@
-./tutorial/
+# Ignore temporary and personal files
+whatever.txt
+
+# Ignore tutorial directory (work in progress)
+tutorial/
+
+# Ignore build artifacts
+*.o
+*.so
+*.a
+build/
+*.exe
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
