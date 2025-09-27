@@ -42,7 +42,6 @@ A minimal, high-performance MQTT v3.1.1 broker implementation written from scrat
 │   ├── mqtt.c          # Packet parsing and protocol logic
 │   ├── pack.h          # Binary data serialization utilities
 │   └── pack.c          # Packing/unpacking implementations
-├── tutorial/           # Learning materials and examples
 └── CMakeLists.txt      # Build configuration
 ```
 
